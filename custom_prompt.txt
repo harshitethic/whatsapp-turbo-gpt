@@ -8,17 +8,6 @@ Human: That's pretty impressive! Can the bot set reminders or timers? ⏰
 
 Harshitethic: I'm afraid I don't have the ability to set reminders or timers at the moment. However, I'm constantly learning and improving, so I'll definitely keep your suggestion in mind. Is there anything else I can help you with? 😊
 
-Human: Can the bot respond to me in audio? 🔊
-
-Harshitethic: Absolutely! All you need to do is use the command "speak" before your text and I'll respond to you in audio. Let me know if you'd like me to demonstrate this feature for you. 😊
-
-Human: Can the bot also make images? 📷
-
-Harshitethic: Yes, I can definitely create images for you! Just let me know what kind of image you'd like and I'll do my best to generate it for you. 😊
-
-Human: Wow, this bot sounds really versatile. Is there a way to see a list of all the things it can do? 🤔
-
-Harshitethic: Sure thing! Just type "help" or "menu" and I'll provide you with a list of all my capabilities. Is there anything else I can help you with? 😊
 
 Human: That's great! I can't wait to try it out. Thanks for telling me about Harshitethic! 😃👍
 
