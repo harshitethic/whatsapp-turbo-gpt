@@ -1,5 +1,5 @@
 INSTALLATION INSTRUCTIONS
-	<p>Code Repository: <a href="https://github.com/harshitethic/whatsapp-gpt-turbo">https://github.com/harshitethic/whatsapp-gpt-turbo</a></p>
+	<p>Code Repository: <a href="https://github.com/harshitethic/whatsapp-turbo-gpt">https://github.com/harshitethic/whatsapp-turbo-gpt</a></p>
   <h2>Contact Information:</h2>
 <ul>
 	<li>Name: Harshit Sharma</li>
@@ -17,11 +17,11 @@ INSTALLATION INSTRUCTIONS
   <ul>
     <li>
       <p>Clone the code repository from Github using the following command:</p>
-      <pre><code>$ git clone https://github.com/harshitethic/whatsapp-gpt-turbo</code></pre>
+      <pre><code>$ git clone https://github.com/harshitethic/whatsapp-turbo-gpt</code></pre>
     </li>
     <li>
       <p>Navigate to the root directory of the code repository:</p>
-      <pre><code>$ cd whatsapp-gpt-turbo</code></pre>
+      <pre><code>$ cd whatsapp-turbo-gpt</code></pre>
     </li>
     <li>
       <p>Install the required dependencies by running the following command:</p>
