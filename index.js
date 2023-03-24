@@ -281,7 +281,7 @@ async function startHisoka() {
       console.log(color("Bot success conneted to server", "green"));
       console.log(color("JOIN: MY TELEGRAM: @harshitethicsupport", "yellow"));
       console.log(color("Type /menu to see menu"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `Bot started!\n\njangan lupa support ya bang :)\n${donet}` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `Bot started!\n${donet}` });
     }
     // console.log('Connected...', update)
   });
