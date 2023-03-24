@@ -10,6 +10,8 @@ INSTALLATION INSTRUCTIONS
 	<li>Telegram Channel: <a href="https://t.me/harshitethicchannel">https://t.me/harshitethicchannel</a></li>
 </ul>
 
+<p>In addition, I have included a compressed zip file called `node_modules.zip`. This file contains all the required dependencies for the project, and can be used as a backup option in case you encounter issues while installing the dependencies using the `npm install` command. Simply extract the contents of the zip file and place them in the project directory to use the dependencies.</p>
+
 <h2>INSTALLATION STEPS</h2>
 <div>
   <ul>
