@@ -1,6 +1,6 @@
 {
-  "name": "Wa-OpenAI",
-  "version": "2.0.0",
+  "name": "whatsapp-turbo-gpt",
+  "version": "1.0.0",
   "description": "WhatsApp Bot OpenAI ChatGPT Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
@@ -18,8 +18,8 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/DikaArdnt/Hisoka-Morou",
-  "author": "Yusril",
+  "base": "https://github.com/harshitethic/whatsapp-turbo-gpt",
+  "author": "Harshit Sharma",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.7",
@@ -44,10 +44,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sansekai/Wa-OpenAI.git"
+    "url": "git+https://github.com/harshitethic/whatsapp-turbo-gpt.git"
   },
   "bugs": {
-    "url": "https://github.com/Sansekai/Wa-OpenAI/issues"
+    "url": "https://github.com/harshitethic/whatsapp-turbo-gpt/issues"
   },
-  "homepage": "https://github.com/Sansekai/Wa-OpenAI#readme"
+  "homepage": "https://github.com/harshitethic/whatsapp-turbo-gpt#readme"
 }
