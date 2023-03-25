@@ -40,3 +40,9 @@ INSTALLATION INSTRUCTIONS
 <p>If you encounter any issues or have any questions, please don't hesitate to contact Harshit Sharma using the information provided above.</p>
 <br>
 <p>This code repository contains a WhatsApp chatbot built using the OpenAI GPT-3.5 language model and the Baileys library. This chatbot is capable of generating responses to user input based on the context of the conversation. Additionally, the chatbot has a feature to store chat history, making it more convenient to continue the conversation at a later time.</p>
+
+<div align="center">
+  <a href="https://www.instagram.com/harshitethic/">
+    <img src="https://img.shields.io/badge/Follow%20%40harshitethic-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
+  </a>
+</div>
